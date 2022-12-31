@@ -18,7 +18,7 @@ And you can send Notification using this :
 NotificationLibrary:SendNotification("Info", "I'm a cool message", 3)
 --NotificationLibrary:SendNotification(Theme, Message, Duration)
 ```
-Launching All Theme would be 
+Sending an notification with all theme would be this :
 ```lua
 NotificationLibrary:SendNotification("Success", "I'm a cool message", 3)
 
