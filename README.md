@@ -31,6 +31,5 @@ NotificationLibrary:SendNotification("Info", "I'm a cool message", 3)
 ```
 #Showcase Of This System :
 --
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)]([https://youtu.be/T-D1KVIuvjA](https://streamable.com/xyszc1)
 ![image](https://user-images.githubusercontent.com/86623018/210139030-eae98001-c44f-4ed0-aff1-cffb2dbcfc5e.png))
 
