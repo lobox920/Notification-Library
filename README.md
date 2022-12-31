@@ -9,10 +9,10 @@ Then you will be able to send a notification using the function SendNotification
 
 Themes Are : 
 ```
-  Success
-  Warning
-  Error
-  Info
+Success
+Warning
+Error
+Info
 ```
 And you can send Notification using this :
 ```lua
