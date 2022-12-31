@@ -7,12 +7,13 @@ NotificationLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com
 ```
 Then you will be able to send a notification using the function SendNotification
 
-Themes Are : 
+# Themes Are : 
+```
 > Success
-Warning
-Error
-Info
-
+> Warning
+> Error
+> Info
+```
 And you can send Notification using this :
 ```lua
 NotificationLibrary:SendNotification("Info", "I'm a cool message", 3)
