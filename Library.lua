@@ -2,6 +2,7 @@
 
 MADE BY : lobox920#9889
 
+I know its bad i used Gui2Lua for the first time and its trash :sob:
 ]]
 local LibraryName = "Notification Library" -- yes
 local NotificationLibrary = {}
