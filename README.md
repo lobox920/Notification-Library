@@ -7,7 +7,7 @@ NotificationLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com
 ```
 Then you will be able to send a notification using the function SendNotification
 
-Themes Are : 
+Modes Are : 
 ```
 Success
 Warning
