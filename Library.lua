@@ -1,4 +1,3 @@
--- Ui by ev#6111 (he doesnt do exploit)
 -- Script by lobox920#9889
 local LibraryName = "Notification Library" -- yes
 local NotificationLibrary = {}
