@@ -1,8 +1,8 @@
--- Script by lobox920#9889
+-- Script by IceMinister#9889
 local LibraryName = "Notification Library" -- yes
 local NotificationLibrary = {}
 local TweenService = game:GetService("TweenService")
-local CoreGui = game:GetService("CoreGui") --plr.PlayerGui
+local CoreGui = cloneref(game:GetService("CoreGui")) --plr.PlayerGui
 local library
 local templateFolder
 local canvas
