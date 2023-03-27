@@ -3,7 +3,7 @@
 Fiest, You will need to load the library
 
 ```lua
-NotificationLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMinisterq/Notification-Library/Main/Library.lua"))()
+NotificationLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/lobox920/Notification-Library/Main/Library.lua"))()
 ```
 Then you will be able to send a notification using the function SendNotification
 
